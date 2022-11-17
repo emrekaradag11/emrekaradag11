@@ -15,6 +15,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=emrekaradag11&label=Profile%20views&color=0e75b6&style=flat" alt="Emre KARADAĞ" />
+[![wakatime](https://wakatime.com/badge/user/d9ec3337-f1fb-426d-a117-878d0b7e5715.svg)](https://wakatime.com/@d9ec3337-f1fb-426d-a117-878d0b7e5715)
 
 <h3 align="left">Connect with me :link:</h3>
 
