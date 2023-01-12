@@ -1,4 +1,4 @@
-![image](https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys+👋;I'm+Emre;A+Passionate+Frontend+Developer+From+Turkey&center=true&size=25&duration=3500&width=750&pause=1500)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys+👋;I'm+Emre;A+Passionate+Frontend+Developer+From+Turkey&center=true&size=25&duration=3500&width=750&pause=1500" />
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
