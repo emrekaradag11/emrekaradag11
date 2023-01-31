@@ -30,5 +30,3 @@
 
 ![image](https://www.codewars.com/users/emrekaradag11/badges/large)
 
-![image](https://github-readme-stats.vercel.app/api?username=emrekaradag11&theme=algolia&hide_border=true&count_private=true&show_icons=true)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=emrekaradag11&theme=algolia&hide_border=true)
