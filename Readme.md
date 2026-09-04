@@ -1,46 +1,159 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys+👋;I'm+Emre;A+Passionate+Frontend+Developer+From+Turkey&center=true&size=25&duration=3500&width=750&pause=1500" />
+<div align="center">
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+# `> whoami`
 
-- 💬 Ask me about **css,sass,javascript**
- 
- 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node-gray?style=flat)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Html](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Scss](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![profileviews](https://komarev.com/ghpvc/?username=emrekaradag11&label=Profile%20views&color=0e75b6&style=flat)
-[![wakatime](https://wakatime.com/badge/user/d9ec3337-f1fb-426d-a117-878d0b7e5715.svg)](https://wakatime.com/@d9ec3337-f1fb-426d-a117-878d0b7e5715)
+```text
+Emre Karadağ
+Software Engineer
 
-<h3 align="left">Connect with me :link:</h3>
+I build things with TypeScript, React, Node.js
+and increasingly, LLMs.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrekaradag)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emrekradag)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/emree_karadag/)
-[![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/emrekaradag11)
+Sometimes I write the code.
+Sometimes AI does.
 
-
-![image](https://www.codewars.com/users/emrekaradag11/badges/large)
-
-### ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript    11 hrs 53 mins        ████████████████░░░░░░░░░   63.72 %
-SCSS          2 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-JSON          1 hr 51 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Other         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Markdown      28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Code review remains mandatory.
 ```
 
+**Building software. Experimenting with AI. Trying not to break production.**
+
+</div>
+
+---
+
+## `$ cat about_me.json`
+
+```json
+{
+  "name": "Emre Karadağ",
+  "role": "Software Engineer",
+  "background": "Frontend Engineering",
+  "location": "Turkey 🇹🇷",
+
+  "building_with": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js"
+  ],
+
+  "currently_into": [
+    "LLM Applications",
+    "AI Agents",
+    "Context Engineering",
+    "MCP",
+    "Developer Tools"
+  ],
+
+  "status": "Probably talking to an AI right now..."
+}
+```
+
+---
+
+## `$ ls ./toolbox`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,sass,redux,git,github,vscode" />
+</p>
+
+```text
+LLMs · Agents · Context Engineering · MCP · Developer Tools
+```
+
+> The stack changes. The goal doesn't: **build useful things.**
+
+---
+
+## `$ cat current_obsessions.txt`
+
+```text
+→ How much context is enough context?
+
+→ Can agents reliably work on real software projects?
+
+→ What happens when coding agents get
+  tools + memory + autonomy?
+```
+
+If you're thinking about these things too, we'll probably have something to talk about.
+
+---
+
+## `$ wakatime --last-7-days`
+
+> My editor keeps receipts.
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<sub>Automatically updated by WakaTime. Unfortunately, procrastination is not tracked.</sub>
+
+---
+
+## `$ git log --future`
+
+```text
+commit ???????
+Author: Emre Karadağ
+
+    build something useful with agents
+
+commit ???????
+Author: Emre Karadağ
+
+    give AI more context
+    regret giving AI more context
+
+commit ???????
+Author: Emre Karadağ
+
+    build tools for developers working with AI
+
+commit ???????
+Author: Emre Karadağ
+
+    contribute more to open source
+
+commit ???????
+Author: Emre Karadağ
+
+    remove console.log
+
+    just kidding
+```
+
+---
+
+## `$ ping emre`
+
+<p>
+<a href="https://www.linkedin.com/in/emrekaradag">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/emrekradag">
+  <img src="https://img.shields.io/badge/X / Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://dev.to/emrekaradag11">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### `$ exit`
+
+```text
+Wait.
+
+You actually read the whole README?
+
+Respect. 🤝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=emrekaradag11&label=curious%20humans&color=0e75b6&style=flat)
+
+
+</div>
