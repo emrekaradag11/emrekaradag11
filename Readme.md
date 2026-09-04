@@ -85,6 +85,15 @@ If you're thinking about these things too, we'll probably have something to talk
 > My editor keeps receipts.
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    11 hrs 53 mins        ████████████████░░░░░░░░░   63.72 %
+SCSS          2 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+JSON          1 hr 51 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Other         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown      28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+```
+
 <!--END_SECTION:waka-->
 
 <sub>Automatically updated by WakaTime. Unfortunately, procrastination is not tracked.</sub>
