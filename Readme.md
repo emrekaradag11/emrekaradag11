@@ -87,11 +87,11 @@ If you're thinking about these things too, we'll probably have something to talk
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    13 hrs 11 mins        ███████████████▒░░░░░░░░░   61.83 %
-SCSS          2 hrs 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Other         1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Markdown      1 hr 8 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-JSON          56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+TypeScript    12 hrs 51 mins        ████████████░░░░░░░░░░░░░   48.20 %
+Markdown      7 hrs 8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+Other         2 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+SCSS          1 hr 34 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JSON          58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
