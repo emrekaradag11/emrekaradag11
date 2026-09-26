@@ -87,11 +87,7 @@ If you're thinking about these things too, we'll probably have something to talk
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 46 mins         ████████████████░░░░░░░░░   63.43 %
-HTML         21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-JSON         20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-SCSS         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Bash         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
